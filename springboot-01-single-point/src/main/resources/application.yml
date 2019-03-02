@@ -1,0 +1,4 @@
+# Web Server Configuration
+server:
+ port: 9090
+
