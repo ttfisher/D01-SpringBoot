@@ -1,18 +1,19 @@
-package com.linc.dp.client;
+package com.linc.client;
 
-import com.linc.dp.factory.method.ConcreteCreator;
-import com.linc.dp.factory.method.Creator;
+import com.linc.dp.FactoryMethodSimple.ConcreteCreator;
+import com.linc.dp.FactoryMethodSimple.Creator;
 
 /**
- * 工厂模式的客户端
+ * 简单工厂模式的客户端
  *
  * @author Lin.C
  * @date 2019/5/24 7:54
  */
-public class FactoryMethodClient {
+public class FactoryMethodSimpleClient {
 
     /**
      * Main
+     *
      * @param args
      */
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.linc.dp.factory.method;
+package com.linc.dp.FactoryMethodSimple;
 
 /**
  * 工厂接口

@@ -1,10 +1,10 @@
-package com.linc.dp.factory.method;
+package com.linc.dp.FactoryMethod;
 
 /**
  * 默认产品
  *
  * @author Lin.C
- * @date 2019/5/24 7:46
+ * @date 2019/5/28 7:46
  */
 public class ConcreteProductDefault implements Product {
 

@@ -1,7 +1,7 @@
-package com.linc.dp.factory.method;
+package com.linc.dp.FactoryMethodSimple;
 
 /**
- * 具体的工厂
+ * 具体的工厂(简单工厂模式）
  *
  * @author Lin.C
  * @date 2019/5/24 7:50
